@@ -49,6 +49,10 @@
         "netcoreapp2.0": {
           "targetAlias": "netcoreapp2.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.11.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[2.1.1, )"

@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BookShop.Data\BookShop.Data.csproj" />
-    <ProjectReference Include="..\BookShop.Initializer\BookShop.Initializer.csproj" />
   </ItemGroup>
 
 </Project>

@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazingPizza
 build_property.RootNamespace = BlazingPizza
-build_property.ProjectDir = C:\Users\nazar\source\repos\BlazingPiza\
+build_property.ProjectDir = D:\Work\LabsOOP\Lab17\BlazingPizza\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\nazar\source\repos\BlazingPiza
+build_property.MSBuildProjectDirectory = D:\Work\LabsOOP\Lab17\BlazingPizza
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nazar/source/repos/BlazingPiza/App.razor]
+[D:/Work/LabsOOP/Lab17/BlazingPizza/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nazar/source/repos/BlazingPiza/Pages/Index.razor]
+[D:/Work/LabsOOP/Lab17/BlazingPizza/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nazar/source/repos/BlazingPiza/Shared/ConfigurePizzaDialog.razor]
+[D:/Work/LabsOOP/Lab17/BlazingPizza/Shared/ConfigurePizzaDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpZ3VyZVBpenphRGlhbG9nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nazar/source/repos/BlazingPiza/Shared/MainLayout.razor]
+[D:/Work/LabsOOP/Lab17/BlazingPizza/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nazar/source/repos/BlazingPiza/_Imports.razor]
+[D:/Work/LabsOOP/Lab17/BlazingPizza/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nazar/source/repos/BlazingPiza/Pages/Error.cshtml]
+[D:/Work/LabsOOP/Lab17/BlazingPizza/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nazar/source/repos/BlazingPiza/Pages/_Host.cshtml]
+[D:/Work/LabsOOP/Lab17/BlazingPizza/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookShop",
+    "\\BookShop\\BookShop.App",
+    "\\BookShop\\BookShop.Data",
+    "\\BookShop\\BookShop.Data\\EntityConfiguration",
+    "\\BookShop\\BookShop.Initializer",
+    "\\BookShop\\BookShop.Models"
+  ],
+  "SelectedNode": "\\BookShop\\BookShop.Data\\BookShopContext.cs",
+  "PreviewInSolutionExplorer": false
+}

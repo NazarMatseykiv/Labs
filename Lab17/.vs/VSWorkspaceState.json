@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazingPizza",
+    "\\BlazingPizza\\Controllers",
+    "\\BlazingPizza\\Data",
+    "\\BlazingPizza\\Model",
+    "\\BlazorApp",
+    "\\BlazorApp\\Pages",
+    "\\BlazorApp\\Properties",
+    "\\BlazorApp\\Shared"
+  ],
+  "SelectedNode": "\\BlazorApp\\Pages\\Todo.razor",
+  "PreviewInSolutionExplorer": false
+}
