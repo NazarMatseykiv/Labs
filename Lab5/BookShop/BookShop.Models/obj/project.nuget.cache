@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "z56p49FyZmQfR2MXD4rIGiEo/Qg/ka2WGEtq9eYKaR61QOwosX82VXRUbi+Krw56kehCqT/CiRnoTSQNvL/xtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nazar\\OneDrive\\Робочий стіл\\07.AdvancedQuerying\\BookShop.Models\\BookShop.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
